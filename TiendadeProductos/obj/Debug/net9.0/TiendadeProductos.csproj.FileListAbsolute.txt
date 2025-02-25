@@ -1,0 +1,14 @@
+C:\Users\yengl\OneDrive - Universidad Tecnológica Metropolitana\Escritorio\Tienda1\TiendadeProductos\obj\Debug\net9.0\TiendadeProductos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yengl\OneDrive - Universidad Tecnológica Metropolitana\Escritorio\Tienda1\TiendadeProductos\obj\Debug\net9.0\TiendadeProductos.AssemblyInfoInputs.cache
+C:\Users\yengl\OneDrive - Universidad Tecnológica Metropolitana\Escritorio\Tienda1\TiendadeProductos\obj\Debug\net9.0\TiendadeProductos.AssemblyInfo.cs
+C:\Users\yengl\OneDrive - Universidad Tecnológica Metropolitana\Escritorio\Tienda1\TiendadeProductos\obj\Debug\net9.0\TiendadeProductos.csproj.CoreCompileInputs.cache
+C:\Users\yengl\OneDrive - Universidad Tecnológica Metropolitana\Escritorio\Tienda1\TiendadeProductos\bin\Debug\net9.0\TiendadeProductos.exe
+C:\Users\yengl\OneDrive - Universidad Tecnológica Metropolitana\Escritorio\Tienda1\TiendadeProductos\bin\Debug\net9.0\TiendadeProductos.deps.json
+C:\Users\yengl\OneDrive - Universidad Tecnológica Metropolitana\Escritorio\Tienda1\TiendadeProductos\bin\Debug\net9.0\TiendadeProductos.runtimeconfig.json
+C:\Users\yengl\OneDrive - Universidad Tecnológica Metropolitana\Escritorio\Tienda1\TiendadeProductos\bin\Debug\net9.0\TiendadeProductos.dll
+C:\Users\yengl\OneDrive - Universidad Tecnológica Metropolitana\Escritorio\Tienda1\TiendadeProductos\bin\Debug\net9.0\TiendadeProductos.pdb
+C:\Users\yengl\OneDrive - Universidad Tecnológica Metropolitana\Escritorio\Tienda1\TiendadeProductos\obj\Debug\net9.0\TiendadeProductos.dll
+C:\Users\yengl\OneDrive - Universidad Tecnológica Metropolitana\Escritorio\Tienda1\TiendadeProductos\obj\Debug\net9.0\refint\TiendadeProductos.dll
+C:\Users\yengl\OneDrive - Universidad Tecnológica Metropolitana\Escritorio\Tienda1\TiendadeProductos\obj\Debug\net9.0\TiendadeProductos.pdb
+C:\Users\yengl\OneDrive - Universidad Tecnológica Metropolitana\Escritorio\Tienda1\TiendadeProductos\obj\Debug\net9.0\TiendadeProductos.genruntimeconfig.cache
+C:\Users\yengl\OneDrive - Universidad Tecnológica Metropolitana\Escritorio\Tienda1\TiendadeProductos\obj\Debug\net9.0\ref\TiendadeProductos.dll
